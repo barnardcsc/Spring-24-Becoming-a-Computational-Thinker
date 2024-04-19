@@ -19,3 +19,5 @@ Although no coding experience is needed, depending on your prior knowledge you a
 **For quick access to games played during this workshop, please see below:**
   1. Blockly Games: &ensp; https://scratch.mit.edu/projects/editor/?tutorial=getStarted 
   2. Towers of Hanoi: &ensp; https://www.mathsisfun.com/games/towerofhanoi.html
+
+Please note that materials adapted from external sources are linked throughout the presentation.
