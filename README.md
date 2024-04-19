@@ -20,4 +20,5 @@ Although no coding experience is needed, depending on your prior knowledge you a
   1. Blockly Games: &ensp; https://scratch.mit.edu/projects/editor/?tutorial=getStarted 
   2. Towers of Hanoi: &ensp; https://www.mathsisfun.com/games/towerofhanoi.html
 
-Please note that materials adapted from external sources are linked throughout the presentation.
+
+Note: Materials adapted from external sources are cited throughout the presentation.
