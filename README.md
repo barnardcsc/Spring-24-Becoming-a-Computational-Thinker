@@ -9,11 +9,11 @@ Although no coding experience is needed, depending on your prior knowledge you a
 
 
 **This repository contains the following materials:**
-becoming-a-computational-thinker.docx: &ensp; document containing workshop outline and overview
-becoming-a-computational-thinker.pptx: &ensp; slide deck containing all presentation speaking points and links
-maze-solver-tutorial.ipynb: &ensp; Python notebook detailing how to code a maze
-towers-of-hanoi-nonrecursive.ipynb: &ensp; Python notebook detailing how to code non-recursively to solve Towers of Hanoi
-towers-of-hanoi-recursive.ipynb: &ensp; Python notebook detailing how to code recursively to solve Towers of Hanoi
+  1. becoming-a-computational-thinker.docx: &ensp; document containing workshop outline and overview
+  2. becoming-a-computational-thinker.pptx: &ensp; slide deck containing all presentation speaking points and links
+  3. maze-solver-tutorial.ipynb: &ensp; Python notebook detailing how to code a maze
+  4. towers-of-hanoi-nonrecursive.ipynb: &ensp; Python notebook detailing how to code non-recursively to solve Towers of Hanoi
+  5. towers-of-hanoi-recursive.ipynb: &ensp; Python notebook detailing how to code recursively to solve Towers of Hanoi
 
 
 **For quick access to games played during this workshop, please see below:**
