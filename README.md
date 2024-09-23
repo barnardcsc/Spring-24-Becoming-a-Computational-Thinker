@@ -1,6 +1,6 @@
 # Spring-24-Becoming-a-Computational-Thinker
 
-This workshop is taught by Yasemin Gulbahar (Visiting Faculty, Learning Analytics Program at Teachers College, Columbia University) (email: gulbahar@tc.columbia.edu).
+This workshop is taught by Yasemin Gulbahar (Visiting Faculty, Learning Analytics Program at Teachers College, Columbia University) (Email: gulbahar@tc.columbia.edu).
 
 
 What is computational thinking? Computational Thinking (CT) has become a skill for the 21st century that is becoming ever-more important in today’s increasingly technological world for problem solving both in industry and the academic sector. In this workshop, you will not only understand various dimensions of CT but also explore these dimensions through different solutions for the same problems. This workshop is useful for everybody who wants to understand the way we make computers work. 
